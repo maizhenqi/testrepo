@@ -1,1 +1,1 @@
-test smart git
+test smart git 1
